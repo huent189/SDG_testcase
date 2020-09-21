@@ -1,4 +1,4 @@
-#Note
+# Note
 - **TD:** transitive dependence between input and output of callee function
 - **DD:** data dependence
 - **CD:** control dependence
